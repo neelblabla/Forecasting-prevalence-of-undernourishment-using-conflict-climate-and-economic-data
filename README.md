@@ -22,6 +22,9 @@ Description of files:
 
 4) Data -> Raw input datasets as well as everything that is being created during the project
 
-Further information can be found here:
+## Micropublication
+This study is now available as a micropublication on the following link:
+https://data.flashpub.io/articles/kacqxqvlqfh72mxyb6nrjkjyocskwvoagd2gxbsiutvl2pqepgczvhq
 
+Further information can be found here:
 https://docs.google.com/document/d/1LRx-RHb_BrDnaqMHl_3nnihoNGNaeNGI/edit#heading=h.30j0zll
