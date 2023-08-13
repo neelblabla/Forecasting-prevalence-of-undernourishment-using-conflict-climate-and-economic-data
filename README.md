@@ -7,9 +7,9 @@ Unfortunately the kaggle data was of low quality and many other teams predicted 
 prevalence of undernourishment in a given coutry and year. We use climate data (earth engine), economic data (FAO) and violent conflict data (UCDP)
 to do so. Feel free to have a look around :)
 
-Team member:
-Nils - https://github.com/nilsmart96 ;
+Team members:
 Neelesh - https://github.com/neelblabla ;
+Nils - https://github.com/nilsmart96 ;
 Jerome - https://github.com/sonic171717
 
 Description of files:
